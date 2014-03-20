@@ -1,5 +1,6 @@
 # The Test Tasks
-## 1. Please write a function which recursively traverse the folder and seeks for "txt" files and just prints them out.
+## 1. Find .txt
+Please write a function which recursively traverse the folder and seeks for "txt" files and just prints them out.
 ## 2. Calendar.
 In Planet W00t they a slightly different calendar than we have on Earth.
 
@@ -38,7 +39,8 @@ interface CalendarInterface {
     // TODO: getters and setters for params
 }
 ```
-## 3. Write a data scraper script which gets information about all athletes of Sochi2014 olympic games (sochi2014.com)
+## 3. Scraper script
+Write a data scraper script which gets information about all athletes of Sochi2014 olympic games (sochi2014.com)
 (You should not run that script! We don't need their data). So you don't have to worry about possible data scraping prevention techniques or something, we just need class or set of classes.
 
 The output has to be a JSON document with array of the following objects
